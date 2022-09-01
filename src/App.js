@@ -66,7 +66,7 @@ function App() {
         </p>
         <p>
           <label for="sharedsecret">Shared Secret:</label>
-          <input type="text" name="sharedsecret" value='n+Gs"37vQE' />
+          <input type="text" name="sharedsecret" value='sharedsecret' />
         </p>
       </fieldset>
       <form id="paymentForm" method="post" action="#">
